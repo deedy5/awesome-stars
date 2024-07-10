@@ -53,6 +53,7 @@
 
 ## http 
 
+- [deedy5/pyreqwest_impersonate](https://github.com/deedy5/pyreqwest_impersonate) - HTTP client that can impersonate web browsers (Chrome/Edge/OkHttp/Safari), mimicking their headers and TLS/JA3/JA4/HTTP2 fingerprints
 - [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client
 - [yifeikong/curl_cffi](https://github.com/yifeikong/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
