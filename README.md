@@ -38,6 +38,7 @@
 
 ## Rust 
 
+- [deedy5/pyreqwest_impersonate](https://github.com/deedy5/pyreqwest_impersonate) - HTTP client that can impersonate web browsers (Chrome/Edge/OkHttp/Safari), mimicking their headers and TLS/JA3/JA4/HTTP2 fingerprints
 - [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
