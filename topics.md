@@ -34,7 +34,7 @@
 
 ## chrome 
 
-- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client
+- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client (Impersonate TLS/JA3/JA4/HTTP2 fingerprints)
 
 ## compiler 
 
@@ -54,7 +54,7 @@
 ## http 
 
 - [deedy5/pyreqwest_impersonate](https://github.com/deedy5/pyreqwest_impersonate) - HTTP client that can impersonate web browsers (Chrome/Edge/OkHttp/Safari), mimicking their headers and TLS/JA3/JA4/HTTP2 fingerprints
-- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client
+- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client (Impersonate TLS/JA3/JA4/HTTP2 fingerprints)
 - [yifeikong/curl_cffi](https://github.com/yifeikong/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -115,7 +115,7 @@
 ## rust 
 
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client
+- [0x676e67/reqwest-impersonate](https://github.com/0x676e67/reqwest-impersonate) - An easy and powerful Rust HTTP/WebSocket Client (Impersonate TLS/JA3/JA4/HTTP2 fingerprints)
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [nickspring/charset-normalizer-rs](https://github.com/nickspring/charset-normalizer-rs) - Truly universal encoding detector in pure Rust - port of Python version
 - [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
