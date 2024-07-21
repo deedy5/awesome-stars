@@ -74,6 +74,7 @@
 
 ## others 
 
+- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
