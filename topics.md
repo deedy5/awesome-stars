@@ -47,13 +47,14 @@
 
 ## hacktoberfest 
 
+- [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## http 
 
-- [deedy5/primp](https://github.com/deedy5/primp) - Python Request IMPersonate. The fastest python HTTP client that can impersonate web browsers
+- [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) - An easy and powerful Rust HTTP/WebSocket Client featuring TLS/JA3/JA4/HTTP2 fingerprint impersonate
 - [yifeikong/curl_cffi](https://github.com/yifeikong/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
@@ -115,6 +116,7 @@
 
 ## rust 
 
+- [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) - An easy and powerful Rust HTTP/WebSocket Client featuring TLS/JA3/JA4/HTTP2 fingerprint impersonate
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
