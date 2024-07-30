@@ -38,8 +38,9 @@
 
 ## Rust 
 
+- [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
-- [deedy5/primp](https://github.com/deedy5/primp) - Python Request IMPersonate. The fastest python HTTP client that can impersonate web browsers
+- [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
