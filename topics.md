@@ -7,7 +7,6 @@
 
 - [api](#api)
 - [c](#c)
-- [chrome](#chrome)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [hacktoberfest](#hacktoberfest)
@@ -31,10 +30,6 @@
 ## c 
 
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
-
-## chrome 
-
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An easy and powerful Rust HTTP/WebSocket Client featuring TLS/JA3/JA4/HTTP2 fingerprint impersonate
 
 ## compiler 
 
