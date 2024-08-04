@@ -113,7 +113,6 @@
 
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An easy and powerful Rust HTTP/WebSocket Client featuring TLS/JA3/JA4/HTTP2 fingerprint impersonate
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [nickspring/charset-normalizer-rs](https://github.com/nickspring/charset-normalizer-rs) - Truly universal encoding detector in pure Rust - port of Python version
 - [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
