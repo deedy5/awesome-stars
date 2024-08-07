@@ -49,6 +49,7 @@
 
 ## http 
 
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [0x676e67/rquest](https://github.com/0x676e67/rquest) - An easy and powerful Rust HTTP Client with TLS/JA3/JA4/HTTP2 fingerprinting impersonate
 - [yifeikong/curl_cffi](https://github.com/yifeikong/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -70,6 +71,7 @@
 
 ## others 
 
+- [dima-doroshenko/jsoner-database](https://github.com/dima-doroshenko/jsoner-database) - 
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
@@ -111,6 +113,7 @@
 
 ## rust 
 
+- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
