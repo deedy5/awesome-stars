@@ -46,7 +46,7 @@
 - [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An fast asynchronous Http/WebSocket Rust Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An fast asynchronous Rust Http/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate
 - [nickspring/charset-normalizer-rs](https://github.com/nickspring/charset-normalizer-rs) - Truly universal encoding detector in pure Rust - port of Python version
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
