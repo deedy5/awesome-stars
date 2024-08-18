@@ -11,6 +11,7 @@
 - [cpp](#cpp)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
+- [https](#https)
 - [json](#json)
 - [language](#language)
 - [numpy](#numpy)
@@ -55,6 +56,12 @@
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
+
+## https 
+
+- [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
+- [0x676e67/rquest](https://github.com/0x676e67/rquest) - An fast asynchronous Rust Http/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate
+- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 
 ## json 
 
