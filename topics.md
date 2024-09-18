@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [api](#api)
 - [c](#c)
 - [compiler](#compiler)
@@ -23,6 +24,10 @@
 - [rust](#rust)
 - [security](#security)
 - [shell](#shell)
+
+## ai 
+
+- [tomkat-cr/ai_readme_generator](https://github.com/tomkat-cr/ai_readme_generator) - AI Readme Generator reads any Git repository and suggests a README.md or a Pytest-based test file from the repository code, using Langchain and OpenAI GPT-4 or GPT-3.5-turbo.
 
 ## api 
 
@@ -113,6 +118,7 @@
 
 ## python3 
 
+- [tomkat-cr/ai_readme_generator](https://github.com/tomkat-cr/ai_readme_generator) - AI Readme Generator reads any Git repository and suggests a README.md or a Pytest-based test file from the repository code, using Langchain and OpenAI GPT-4 or GPT-3.5-turbo.
 - [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
