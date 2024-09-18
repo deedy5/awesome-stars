@@ -21,6 +21,7 @@
 
 ## Python 
 
+- [tomkat-cr/ai_readme_generator](https://github.com/tomkat-cr/ai_readme_generator) - AI Readme Generator reads any Git repository and suggests a README.md or a Pytest-based test file from the repository code, using Langchain and OpenAI GPT-4 or GPT-3.5-turbo.
 - [dima-doroshenko/jsoner-database](https://github.com/dima-doroshenko/jsoner-database) - 
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
