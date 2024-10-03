@@ -10,6 +10,7 @@
 - [c](#c)
 - [compiler](#compiler)
 - [cpp](#cpp)
+- [firefox](#firefox)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [https](#https)
@@ -45,6 +46,10 @@
 ## cpp 
 
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+
+## firefox 
+
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Undetected web scraping browser
 
 ## hacktoberfest 
 
