@@ -6,6 +6,7 @@
 ## Contents
 
 - [C](#c)
+- [C++](#c++)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -14,6 +15,10 @@
 ## C 
 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+## C++ 
+
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Undetected web scraping browser
 
 ## Others 
 
