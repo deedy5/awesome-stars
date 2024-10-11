@@ -45,7 +45,7 @@
 
 ## Rust 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP/WebSocket Client with TLS/JA3/JA4/HTTP2 fingerprint impersonate
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprints
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
