@@ -60,7 +60,7 @@
 
 ## http 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprints
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
 - [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
@@ -69,7 +69,7 @@
 
 ## https 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprints
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 
