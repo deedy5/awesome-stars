@@ -5,20 +5,13 @@
 
 ## Contents
 
-- [ai](#ai)
 - [api](#api)
-- [c](#c)
 - [compiler](#compiler)
-- [cpp](#cpp)
-- [firefox](#firefox)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [https](#https)
-- [json](#json)
 - [language](#language)
-- [numpy](#numpy)
 - [others](#others)
-- [package-manager](#package-manager)
 - [privacy](#privacy)
 - [python](#python)
 - [python3](#python3)
@@ -26,30 +19,14 @@
 - [security](#security)
 - [shell](#shell)
 
-## ai 
-
-- [tomkat-cr/ai_readme_generator](https://github.com/tomkat-cr/ai_readme_generator) - AI Readme Generator reads any Git repository and suggests a README.md or a Pytest-based test file from the repository code, using Langchain and OpenAI GPT-4 or GPT-3.5-turbo.
-
 ## api 
 
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-
-## c 
-
-- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 
 ## compiler 
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
-
-## cpp 
-
-- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
-
-## firefox 
-
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Undetected web scraping browser
 
 ## hacktoberfest 
 
@@ -61,44 +38,22 @@
 ## http 
 
 - [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
-- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
-- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 
 ## https 
 
 - [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
-- [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
-
-## json 
-
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 
 ## language 
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
-## numpy 
-
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-
 ## others 
 
-- [dima-doroshenko/jsoner-database](https://github.com/dima-doroshenko/jsoner-database) - 
-- [mstange/samply](https://github.com/mstange/samply) - Command-line sampling profiler for macOS and Linux
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
-- [davidhewitt/pythonize](https://github.com/davidhewitt/pythonize) - 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-
-## package-manager 
-
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 
 ## privacy 
 
@@ -108,38 +63,22 @@
 
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
-- [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - Search for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
-- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 
 ## python3 
 
-- [tomkat-cr/ai_readme_generator](https://github.com/tomkat-cr/ai_readme_generator) - AI Readme Generator reads any Git repository and suggests a README.md or a Pytest-based test file from the repository code, using Langchain and OpenAI GPT-4 or GPT-3.5-turbo.
-- [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ## rust 
 
-- [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
-- [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [nickspring/charset-normalizer-rs](https://github.com/nickspring/charset-normalizer-rs) - Truly universal encoding detector in pure Rust - port of Python version
-- [mityax/rustimport](https://github.com/mityax/rustimport) - Import Rust source files directly from Python!
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
