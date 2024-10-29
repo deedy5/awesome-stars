@@ -37,12 +37,12 @@
 
 ## http 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - A high-performance asynchronous Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint spoof
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 
 ## https 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - A high-performance asynchronous Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint spoof
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 
 ## language 
@@ -77,7 +77,7 @@
 
 ## rust 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - An fast asynchronous Rust HTTP Client with TLS, JA3/JA4, and HTTP2 fingerprint
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - A high-performance asynchronous Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint spoof
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
