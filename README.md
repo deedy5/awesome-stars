@@ -6,14 +6,20 @@
 ## Contents
 
 - [C](#c)
+- [Java](#java)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Swift](#swift)
 
 ## C 
 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+
+## Java 
+
+- [woheller69/omweather](https://github.com/woheller69/omweather) - 
 
 ## Others 
 
@@ -42,6 +48,10 @@
 ## Shell 
 
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
+
+## Swift 
+
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 
 
 ## License
