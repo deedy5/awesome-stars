@@ -51,6 +51,8 @@
 
 ## others 
 
+- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
+- [woheller69/omweather](https://github.com/woheller69/omweather) - 
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
