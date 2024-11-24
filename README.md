@@ -6,20 +6,19 @@
 ## Contents
 
 - [C](#c)
-- [Java](#java)
+- [Kotlin](#kotlin)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Swift](#swift)
 
 ## C 
 
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 
-## Java 
+## Kotlin 
 
-- [woheller69/omweather](https://github.com/woheller69/omweather) - 
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 
 ## Others 
 
@@ -27,6 +26,7 @@
 
 ## Python 
 
+- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -48,10 +48,6 @@
 ## Shell 
 
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
-
-## Swift 
-
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
 
 
 ## License
