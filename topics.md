@@ -11,6 +11,7 @@
 - [http](#http)
 - [https](#https)
 - [language](#language)
+- [open-source](#open-source)
 - [others](#others)
 - [privacy](#privacy)
 - [python](#python)
@@ -49,10 +50,13 @@
 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
+## open-source 
+
+- [Pirate-Weather/pirateweather](https://github.com/Pirate-Weather/pirateweather) - Code and documentation for the Pirate Weather API
+
 ## others 
 
-- [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) - Free Weather Forecast API for non-commercial use
-- [woheller69/omweather](https://github.com/woheller69/omweather) - 
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
