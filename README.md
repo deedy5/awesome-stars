@@ -30,7 +30,7 @@
 
 ## Rust 
 
-- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - A high-performance asynchronous Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint
+- [penumbra-x/rquest](https://github.com/penumbra-x/rquest) - Asynchronous Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint
 - [jugglerchris/rust-html2text](https://github.com/jugglerchris/rust-html2text) - Rust library to render HTML as text.
 - [deedy5/primp](https://github.com/deedy5/primp) - 🪞PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
