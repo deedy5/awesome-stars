@@ -25,7 +25,7 @@
 - [litestar-org/litestar](https://github.com/litestar-org/litestar) - Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - Search for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine. Downloading files and images to a local hard drive.
+- [deedy5/duckduckgo_search](https://github.com/deedy5/duckduckgo_search) - AI chat and search for text, news, images and videos using the DuckDuckGo.com search engine.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer) - Truly universal encoding detector in pure Python
 
 ## Rust 
